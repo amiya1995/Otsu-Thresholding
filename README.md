@@ -1,0 +1,2 @@
+# Otsu-Thresholding
+Image Segmentation
